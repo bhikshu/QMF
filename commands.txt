@@ -1,3 +1,4 @@
+CMDs
 docker build -t miltonc/dockerwebapp .
 
 docker images
